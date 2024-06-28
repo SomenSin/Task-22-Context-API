@@ -1,0 +1,13 @@
+.micon {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+    z-index: 100;
+    list-style: none;
+    transform: 0.5s;
+    left: -100%;
+}
+.activeMenu {
+    left: 0;
+}
